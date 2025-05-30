@@ -8,6 +8,7 @@ I'm interested in software development and building practical solutions. Current
 
 * 🌍  I'm based in Szczecin
 * ✉️  You can contact me at [dorian.sobieranski@gmail.com](mailto:dorian.sobieranski@gmail.com)
+* Currently working on a small project. More to be added soon...
 
 ### Skills
 
