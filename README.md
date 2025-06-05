@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dorian
 ==============================================================================================================================
 
-IT Student & an aspiring developer
+IT Student 
 ----------------------------------
 
 I'm interested in software development and building practical solutions. Currently learning and growing my skills through personal and academic projects.
