@@ -26,4 +26,4 @@ I'm interested in software development and building practical solutions. Current
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sabin66"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabin66&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sabin66"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabin66&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
