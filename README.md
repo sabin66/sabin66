@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Student 
 ----------------------------------
 
-I'm interested in cybersecurity, testing and programming. Currently learning and growing my skills through personal and academic projects.
+I'm interested in everything associated with CS. Currently learning and growing my skills through personal and academic projects.
 
 * 🌍  I'm based in Szczecin, Poland
 * ✉️  You can contact me at [dorian.sobieranski@gmail.com](mailto:dorian.sobieranski@gmail.com)
