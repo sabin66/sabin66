@@ -1,13 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dorian
-==============================================================================================================================
-
 IT Student 
 ----------------------------------
-
-I'm interested in everything associated with CS. Currently learning and growing my skills through personal and academic projects.
-
-* 🌍  I'm based in Szczecin, Poland
-* ✉️  You can contact me at [dorian.sobieranski@gmail.com](mailto:dorian.sobieranski@gmail.com)
 * Currently working on a small project. More to be added soon...
 
 ### Skills
