@@ -15,7 +15,8 @@
     ],
     "tools": {
       "api_testing": [
-        "Insomnia"
+        "Insomnia",
+        "Requests"
       ],
       "test_management": [
         "YouTrack"
