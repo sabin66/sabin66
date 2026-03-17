@@ -34,12 +34,13 @@
     "working_on": "Personal project to help drivers find parking places faster",
     "learning": [
       "DevOps", 
-      "Test Automation"
+      "Test Automation",
+      "MLOps"
     ]
   },
   "contact": {
     "email": "dorian.sobieranski@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dorian-sobierański-5141a2237/",
-    "portfolio": "soon"
+    "personal_website": "soon"
   }
 }
